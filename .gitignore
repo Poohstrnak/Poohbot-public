@@ -1,0 +1,10 @@
+poohbot.db
+reportbot.db
+*.env
+token.env
+venv/
+__pycache__/
+reportchannels.json
+poohbot.db.bak-*
+reportbot.db.bak-*
+Backups/
